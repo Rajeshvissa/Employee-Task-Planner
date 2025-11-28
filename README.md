@@ -412,11 +412,4 @@ Error: ER_ACCESS_DENIED_FOR_USER
 - Verify MySQL username and password in `.env`
 - Ensure user has permissions on the database
 
-## 📧 Support
 
-For issues or questions, please refer to the project documentation or contact the development team.
-
----
-
-**Last Updated**: November 28, 2025
-**Version**: 1.0.0
