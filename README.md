@@ -13,9 +13,13 @@
 
 A comprehensive web application for managing employee tasks with role-based access control. Admins can manage tasks and employees, while regular users can view and update their assigned tasks.
 
-SCREEN RECORDING :
+## SCREEN RECORDING :
 
 https://www.youtube.com/watch?v=K4l90D2PBzA
+
+## Implemented the bonus features 
+1. User authentication
+2. Role based access : Admin and User
 
 ## 📋 Table of Contents
 
@@ -426,6 +430,7 @@ Error: ER_ACCESS_DENIED_FOR_USER
 ```
 - Verify MySQL username and password in `.env`
 - Ensure user has permissions on the database
+
 
 
 
