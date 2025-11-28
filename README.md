@@ -7,7 +7,7 @@
 
 <img width="1439" height="813" alt="Image" src="https://github.com/user-attachments/assets/c2edd24c-4c7a-4f6e-8e35-0572826a35f3" />
 
-<img width="1439" height="811" alt="Image" src="https://github.com/user-attachments/assets/e6c4d6c8-5ecf-4d6a-aaf1-e9c691026886" />
+<img width="1439" height="813" alt="Image" src="https://github.com/user-attachments/assets/71c82d71-b459-495a-9e7f-3049e71bec0f" />
 
 <img width="1439" height="763" alt="Image" src="https://github.com/user-attachments/assets/d84dbc93-94eb-4177-ae54-3cc203ef9595" />
 
@@ -15,7 +15,7 @@ A comprehensive web application for managing employee tasks with role-based acce
 
 ## SCREEN RECORDING :
 
-https://www.youtube.com/watch?v=K4l90D2PBzA
+https://www.youtube.com/watch?v=Esvni-BsgLI
 
 ## Implemented the bonus features 
 1. User authentication
