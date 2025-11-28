@@ -1,5 +1,16 @@
 # Employee Task Tracker
 
+
+<img width="1439" height="820" alt="Image" src="https://github.com/user-attachments/assets/4d99f28b-3049-49f8-ba70-7e1001fd638d" />
+
+<img width="1439" height="808" alt="Image" src="https://github.com/user-attachments/assets/db24e4a3-3d00-4a7a-895e-755dcb843cfe" />
+
+<img width="1439" height="813" alt="Image" src="https://github.com/user-attachments/assets/c2edd24c-4c7a-4f6e-8e35-0572826a35f3" />
+
+<img width="1439" height="811" alt="Image" src="https://github.com/user-attachments/assets/e6c4d6c8-5ecf-4d6a-aaf1-e9c691026886" />
+
+<img width="1439" height="763" alt="Image" src="https://github.com/user-attachments/assets/d84dbc93-94eb-4177-ae54-3cc203ef9595" />
+
 A comprehensive web application for managing employee tasks with role-based access control. Admins can manage tasks and employees, while regular users can view and update their assigned tasks.
 
 ## 📋 Table of Contents
@@ -411,5 +422,6 @@ Error: ER_ACCESS_DENIED_FOR_USER
 ```
 - Verify MySQL username and password in `.env`
 - Ensure user has permissions on the database
+
 
 
